@@ -1,2 +1,1 @@
-# PrepCourse-Henry
-Este es un repositorio de prueba modulo 2 Henry
+este repositorio es una prueba de como crear en git hub y pasarlo al ordenador
